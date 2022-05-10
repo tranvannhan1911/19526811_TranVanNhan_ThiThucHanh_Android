@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778602297184",
+    "firebase_url": "https://thithuchanhandroid-19764-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thithuchanhandroid-19764",
+    "storage_bucket": "thithuchanhandroid-19764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778602297184:android:dbbe74b7c83bbcbbb8d005",
+        "android_client_info": {
+          "package_name": "com.example.a19526811_tranvannhan_thithuchanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778602297184-bj76t84ob3dpf6qk7hjbvfbdpfg9v2km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0UjYw8SQcXZpaowc4B2ik_gsGA6Xg8d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778602297184-bj76t84ob3dpf6qk7hjbvfbdpfg9v2km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

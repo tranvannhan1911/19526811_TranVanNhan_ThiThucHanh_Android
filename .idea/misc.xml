@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/drawable/bg_buttton.xml" value="0.2075" />
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/drawable/bg_input.xml" value="0.2075" />
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/layout/activity_home.xml" value="0.1625" />
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/data/handout/Android/ThiThucHanh/19526811_TranVanNhan_ThiThucHanh/app/src/main/res/layout/item_book.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
